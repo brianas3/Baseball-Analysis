@@ -1,0 +1,29 @@
+# Large raw Statcast files — re-downloadable via pybaseball
+data/raw/statcast_2018.parquet
+data/raw/statcast_2019.parquet
+data/raw/statcast_2020.parquet
+data/raw/statcast_2021.parquet
+data/raw/statcast_2022.parquet
+data/raw/statcast_2023.parquet
+data/raw/statcast_2024.parquet
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Word temp lock files
+docs/~$*.docx
+
+# Internal planning docs
+docs/superpowers/
+
+# Virtual environments
+.venv/
+env/
+venv/
